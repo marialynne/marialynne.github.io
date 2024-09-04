@@ -5,7 +5,9 @@
 <div style="text-align: center;">
   <img src="Image/titanic.png" alt="Titanic Disaster">
 </div>
+
 ![Titanic Disaster](Image/titanic.png)
+
 ## Equipo 5
 ### Integrantes de equipo:
 - [María Lynne Camacho Padilla](mailto:a01423135@tec.mx)
